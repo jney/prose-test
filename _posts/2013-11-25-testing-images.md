@@ -3,6 +3,7 @@ layout: blog
 category: blog
 published: false
 title: testing images
+splash: splash
 ---
 
 ## A New Post
